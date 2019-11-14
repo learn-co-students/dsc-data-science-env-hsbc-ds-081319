@@ -1,6 +1,8 @@
+languages:
+  - python
+  
 tags:
-- python
-
-languages: python
+  - jupyter
+  - python
 
 resources: 0
