@@ -297,7 +297,7 @@ If you’re working on a mac, open the “Terminal” app in the “Utilities”
 
 Let’s type `pwd` to “print the working directory. It should be somewhere you are OK downloading files to. If not, feel free to use the “cd” command to change directory to one you’d like to work from.
 
-Then type (or better still, cut and paste) `git clone git@github.com:learn-co-curriculum/dsc-data-science-env.git`
+Then type (or better still, cut and paste) `git clone https://github.com/learn-co-curriculum/dsc-data-science-env`
 
 *In Windows, in git bash, to paste from the clipboard the shortcut should be `ctrl-shift-insert`*
 
